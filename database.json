@@ -1,0 +1,7 @@
+{
+    "host": "localhost",
+    "user": "root",
+    "password": "dbwls942456*",
+    "port": "3306",
+    "database": "management"
+}
